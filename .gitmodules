@@ -1,0 +1,6 @@
+[submodule "blog-api"]
+	path = blog-api
+	url = git@github.com:yumekiti/blog-api.git
+[submodule "blog-client"]
+	path = blog-client
+	url = git@github.com:yumekiti/blog-client.git
